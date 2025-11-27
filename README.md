@@ -6,7 +6,7 @@ This repository contains the implementation and supplementary materials for **Me
 
 MBI is a framework that integrates **economics**, **mechanism design**, **incentive alignment** and **differentiable computation** to achieve globally optimal outcomes in multi-agent systems.
 
-The **Differentiable Price Mechanism (DPM)** translates global objectives into high-information, local corrective signals guiding agents toward emergent collective intelligence. 
+The **DPM** translates global objectives into high-information, local corrective signals guiding agents toward emergent collective intelligence. 
 
 ### Current Contents
 
@@ -19,8 +19,10 @@ This repo currently includes:
 
 1. Clone the repository:
 
+```
 git clone [https://github.com/stevefatz95/mechanism_based_intelligence.git](https://github.com/stevefatz95/mechanism_based_intelligence.git)
 cd machine_based_intelligence
+```
 
 2. Install dependencies:
 
