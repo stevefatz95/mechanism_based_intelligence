@@ -20,8 +20,8 @@ This repo currently includes:
 1. Clone the repository:
 
 ```
-git clone [https://github.com/stevefatz95/mechanism_based_intelligence.git](https://github.com/stevefatz95/mechanism_based_intelligence.git)
-cd machine_based_intelligence
+git clone https://github.com/stevefatz95/mechanism_based_intelligence.git
+cd mechanism_based_intelligence
 ```
 
 2. Install dependencies:
