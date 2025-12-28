@@ -45,3 +45,5 @@ If you find this work or the code implementation useful for your research or you
     title={{Mechanism-Based Intelligence (MBI): Differentiable Incentives for Rational Coordination and Guaranteed Alignment in Multi-Agent Systems}},
     author={Grassi, Stefano},
 }
+
+- Read the full Paper on arXiv: https://arxiv.org/pdf/2512.20688
