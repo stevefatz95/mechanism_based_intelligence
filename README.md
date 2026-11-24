@@ -1,6 +1,6 @@
 # Mechanism-Based Intelligence (MBI)
 
-This repository contains the code and supplementary materials for *Mechanism-Based Intelligence: Differentiable Incentives for Rational Coordination and Guaranteed Alignment in Multi-Agent Systems* (arXiv:2512.20688).
+This repository contains the code and supplementary materials for *Mechanism-Based Intelligence: Differentiable Incentives for Rational Coordination and Equilibrium Alignment in Multi-Agent Systems* (arXiv:2512.20688).
 
 ## Overview
 
